@@ -2,3 +2,5 @@
 first file
 
 test merge
+
+feature1
